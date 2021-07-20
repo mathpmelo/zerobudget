@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254631420324",
+    "firebase_url": "https://zerobudget-2e1b0-default-rtdb.firebaseio.com",
+    "project_id": "zerobudget-2e1b0",
+    "storage_bucket": "zerobudget-2e1b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254631420324:android:a9f44bae6c3d5c7e55e131",
+        "android_client_info": {
+          "package_name": "com.mathpmelo.zerobudget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254631420324-tibu6l4obfic7dea2o0aq6h12veq13ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDA4Fai_Dh7V9EQhrh-LyzUORvINdTHQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254631420324-tibu6l4obfic7dea2o0aq6h12veq13ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
